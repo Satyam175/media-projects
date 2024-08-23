@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/ElasticSearchIndex" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SolrReIndex" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cft-docker" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cft-nomad" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/competitrack-admin-webapp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/competitrack-app-crm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/competitrack-classic" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/harrispoll" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/oracle-solr-transfer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/samsung-avod-mapping" vcs="Git" />
+  </component>
+</project>
